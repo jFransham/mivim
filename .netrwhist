@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/jack/Documents/GitHub/cuvva/cuvva-log-sentry-ruby'
+let g:netrw_dirhist_2='/home/jack/Documents/GitHub/cuvva/cuvva-log-sentry-ruby/lib'
+let g:netrw_dirhist_3='/home/jack/Documents/GitHub/cuvva/cuvva-log-sentry-ruby'
+let g:netrw_dirhist_4='/home/jack/Documents/GitHub/cuvva/service-quote-mulsanne/app/processes'
